@@ -2,6 +2,7 @@
  Then project is started
 
 ##Introduction
+This is an introduction
 
 ##Purpose
 
