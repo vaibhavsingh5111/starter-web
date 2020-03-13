@@ -5,7 +5,7 @@
 This is an introduction
 
 ##Purpose
-I am the purpose
+Stash is the purpose
 
 ##How To Contribute
 
